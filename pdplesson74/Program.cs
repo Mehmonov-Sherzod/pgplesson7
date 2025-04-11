@@ -10,6 +10,8 @@
         Console.WriteLine(name);
 
 
+        int numbe  = Convert.ToInt32(Console.ReadLine());
+
 
 
 
