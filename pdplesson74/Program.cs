@@ -14,7 +14,7 @@
 
         Console.WriteLine(numbe);
 
-        int
+        int number1= Convert.ToInt32(Console.ReadLine());
 
 
 
